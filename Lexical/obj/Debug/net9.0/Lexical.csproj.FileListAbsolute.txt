@@ -1,0 +1,14 @@
+/Users/adolfoarroyo/Documents/Tecmx/octavo semestre/src/Lexical/bin/Debug/net9.0/Lexical
+/Users/adolfoarroyo/Documents/Tecmx/octavo semestre/src/Lexical/bin/Debug/net9.0/Lexical.deps.json
+/Users/adolfoarroyo/Documents/Tecmx/octavo semestre/src/Lexical/bin/Debug/net9.0/Lexical.runtimeconfig.json
+/Users/adolfoarroyo/Documents/Tecmx/octavo semestre/src/Lexical/bin/Debug/net9.0/Lexical.dll
+/Users/adolfoarroyo/Documents/Tecmx/octavo semestre/src/Lexical/bin/Debug/net9.0/Lexical.pdb
+/Users/adolfoarroyo/Documents/Tecmx/octavo semestre/src/Lexical/obj/Debug/net9.0/Lexical.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adolfoarroyo/Documents/Tecmx/octavo semestre/src/Lexical/obj/Debug/net9.0/Lexical.AssemblyInfoInputs.cache
+/Users/adolfoarroyo/Documents/Tecmx/octavo semestre/src/Lexical/obj/Debug/net9.0/Lexical.AssemblyInfo.cs
+/Users/adolfoarroyo/Documents/Tecmx/octavo semestre/src/Lexical/obj/Debug/net9.0/Lexical.csproj.CoreCompileInputs.cache
+/Users/adolfoarroyo/Documents/Tecmx/octavo semestre/src/Lexical/obj/Debug/net9.0/Lexical.dll
+/Users/adolfoarroyo/Documents/Tecmx/octavo semestre/src/Lexical/obj/Debug/net9.0/refint/Lexical.dll
+/Users/adolfoarroyo/Documents/Tecmx/octavo semestre/src/Lexical/obj/Debug/net9.0/Lexical.pdb
+/Users/adolfoarroyo/Documents/Tecmx/octavo semestre/src/Lexical/obj/Debug/net9.0/Lexical.genruntimeconfig.cache
+/Users/adolfoarroyo/Documents/Tecmx/octavo semestre/src/Lexical/obj/Debug/net9.0/ref/Lexical.dll
